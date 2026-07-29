@@ -19,7 +19,7 @@ https://apps.apple.com/us/app/ao3-archive-reader-unofficial/id6772581092
 
 ## 🤖 Google Play
 
-(Add your Google Play link here)
+https://play.google.com/store/apps/details?id=com.gpllc.ao3reader.app
 
 ---
 
