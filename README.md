@@ -83,18 +83,7 @@ and every story available on Archive of Our Own (AO3).
 
 # Screenshots
 
-<h2 align="center">App Screenshots</h2>
-
-<p align="center">
-  <img src="Images/ao3-reader-home.png" width="180">
-  <img src="Images/ao3-reader-library.png" width="180">
-  <img src="Images/ao3-reader-reading.png" width="180">
-</p>
-
-<p align="center">
-  <img src="Images/ao3-reader-statistics.png" width="180">
-  <img src="Images/ao3-reader-settings.png" width="180">
-</p>
+<img src="https://raw.githubusercontent.com/Narusta/AO3-Reader/main/Images/ao3-reader-home.png" width="180">
 
 ---
 
