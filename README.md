@@ -1,4 +1,12 @@
-# AO3 Reader – Unofficial Archive of Our Own App for iPhone & Android
+<p align="center">
+  <img src="images/ao3-reader-app-icon.png" width="120">
+</p>
+
+<h1 align="center">AO3 Reader</h1>
+
+<p align="center">
+  The unofficial Archive of Our Own (AO3) reader for iPhone & Android.
+</p>
 
 ![Platform](https://img.shields.io/badge/iOS-17%2B-black?logo=apple)
 ![Platform](https://img.shields.io/badge/Android-8%2B-green?logo=android)
