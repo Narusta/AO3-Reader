@@ -89,9 +89,6 @@ and every story available on Archive of Our Own (AO3).
   <img src="Images/ao3-reader-home.png" width="180">
   <img src="Images/ao3-reader-library.png" width="180">
   <img src="Images/ao3-reader-reading.png" width="180">
-</p>
-
-<p align="center">
   <img src="Images/ao3-reader-statistics.png" width="180">
   <img src="Images/ao3-reader-settings.png" width="180">
 </p>
