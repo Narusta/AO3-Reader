@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/AO3-app-icon.png" width="120">
+  <img src="Images/AO3-app-icon.png" width="120">
 </p>
 
 <h1 align="center">AO3 Reader</h1>
